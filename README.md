@@ -1,3 +1,5 @@
+<p align="center"> <img src="./Myself.png" alt="Gloria Martinez" width="300" /> </p>
+
 Gloria Martinez — NeuroCinema Researcher 🎬🔐
 
 Welcome to my GitHub space! I’m an interdisciplinary researcher and creator exploring the intersections of Visual Art, 
