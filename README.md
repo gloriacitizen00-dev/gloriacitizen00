@@ -10,10 +10,9 @@
       <b>Gloria Martinez</b>
     </td>
 
-    <td align="center">
-      <img src="./skycortex.GIF"
-           alt="SkyCortex Creative Laboratory"
-           width="500" />
+<img src="skycortex.GIF"
+     alt="SkyCortex Creative Laboratory"
+     width="500">
       <br>
       <b>SkyCortex Creative Laboratory</b>
     </td>
