@@ -1,9 +1,26 @@
-<p align="center">
-  <img src="./Myself.png"
-       alt="Gloria Martinez"
-       width="300"
-       style="border-radius:50%;" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="./Myself.png"
+           alt="Gloria Martinez"
+           width="250"
+           height="250"
+           style="border-radius:50%; object-fit:cover;" />
+      <br>
+      <b>Gloria Martinez</b>
+    </td>
+
+    <td align="center">
+      <img src="./skycortex.GIF"
+           alt="SkyCortex Creative Laboratory"
+           width="500" />
+      <br>
+      <b>SkyCortex Creative Laboratory</b>
+    </td>
+  </tr>
+</table>
+
+
 # 🌌 Gloria Martinez — SkyCortex Creative Laboratory
 
 Welcome to my GitHub space!
