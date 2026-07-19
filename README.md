@@ -3,7 +3,7 @@
 <img src="./Myself.png"
      alt="Gloria Martinez"
      width="300"
-     height="300"
+     height="400"
      style="border-radius:50%; object-fit:cover;" />
 
 <br>
