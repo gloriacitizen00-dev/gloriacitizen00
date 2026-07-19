@@ -1,29 +1,14 @@
 <div align="center">
 
-<table>
-  <tr>
+<img src="./Myself.png"
+     alt="Gloria Martinez"
+     width="200"
+     height="200"
+     style="border-radius:50%; object-fit:cover;" />
 
-    <td align="center">
-      <img src="./Myself.png"
-           alt="Gloria Martinez"
-           width="200"
-           height="200"
-           style="border-radius:50%; object-fit:cover;" />
-      <br>
-      <b>Gloria Martinez</b>
-    </td>
+<br>
 
-
-    <td align="center">
-      <img src="./skycortex.GIF"
-           alt="SkyCortex Creative Laboratory"
-           width="300" />
-      <br>
-      <b>SkyCortex Creative Laboratory</b>
-    </td>
-
-  </tr>
-</table>
+<b>Gloria Martinez</b>
 
 </div>
 
