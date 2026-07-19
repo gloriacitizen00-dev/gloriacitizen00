@@ -2,8 +2,8 @@
 
 <img src="./Myself.png"
      alt="Gloria Martinez"
-     width="200"
-     height="200"
+     width="300"
+     height="300"
      style="border-radius:50%; object-fit:cover;" />
 
 <br>
