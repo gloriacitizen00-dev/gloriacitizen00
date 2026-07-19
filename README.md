@@ -119,8 +119,6 @@ SkyCortex Creative Laboratory
 
 ---
 
-© 2026 Gloria Martinez. All rights reserved.
-
 <div align="center">
 
 <img src="skycortex.GIF"
@@ -132,5 +130,9 @@ SkyCortex Creative Laboratory
 <b>SkyCortex Creative Laboratory</b>
 
 </div>
+
+
+© 2026 Gloria Martinez. All rights reserved.
+
 
 
