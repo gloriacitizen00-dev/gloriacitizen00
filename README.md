@@ -1,32 +1,116 @@
-<p align="center"> <img src="./Myself.png" alt="Gloria Martinez" width="300" /> </p>
+<p align="center">
+  <img src="./Myself.png"
+       alt="Gloria Martinez"
+       width="300"
+       style="border-radius:50%;" />
+</p>
+# 🌌 Gloria Martinez — SkyCortex Creative Laboratory
 
-Gloria Martinez — NeuroCinema Researcher 🎬🔐
+Welcome to my GitHub space!
 
-Welcome to my GitHub space! I’m an interdisciplinary researcher and creator exploring the intersections of Visual Art, 
-technology, interfaces and nature.
+I am an interdisciplinary creator exploring the intersection between **technology, visual art, programming, storytelling, and scientific visualization**.
 
-My work blends rigorous analysis with creative storytelling, building bridges between fact and myth through structured timelines, 
-comparative frameworks, and technical design.
+Through SkyCortex, I develop interactive digital experiences that combine creative coding, interface design, data visualization, and narrative systems.
 
-🔎 About Me|
-Experimenting with creative coding and design integration, and cultural narratives.
+My work explores how technology can become a medium for discovery — transforming ideas, information, and imagination into interactive experiences.
 
-💡 What I Do|
-Build comparative frameworks and visual timelines to clarify complex topics
-Create structured resources using Markdown, HTML, CSS, Photoshop, Illustrator, etc.
-Share bilingual content (English & Spanish) to reach wider audiences
+---
 
-🚀 Current Focus|
-Refining my portfolio with clear, structured resources
-Experimenting with creative coding and design integration
-Collaborating on projects that combine technical precision with visual storytelling
+## 🔎 About Me
 
-🛠️ Tech & Tools|
-Languages: HTML, CSS, Markdown
-Design Tools: Photoshop, GitHub Actions, structured research workflows
-Approach: Evidence-based, structured, and visually engaging
+I create experimental projects that connect:
 
-🌐 Connect|
-GitHub: gloriacitizen00-dev (github.com in Bing)
-Academic alias: Gloria Martinez
-Creative alias: Gloria NeuroCinema
+* Creative coding
+* Digital illustration
+* Interactive interfaces
+* Data visualization
+* Astronomy and scientific exploration
+* Storytelling systems
+* Game experiences
+
+My approach combines technical development with visual communication, creating projects that are both functional and immersive.
+
+---
+
+## 💡 What I Do
+
+* Build interactive web experiences using HTML, CSS, and JavaScript
+* Develop creative coding experiments and generative art
+* Design visual systems and digital interfaces
+* Create interactive storytelling experiences
+* Transform complex information into accessible visualizations
+* Explore the relationship between art, technology, and science
+
+---
+
+## 🚀 Current Focus
+
+Currently developing **SkyCortex**, a creative laboratory focused on:
+
+🌌 Astronomy & Space Experiences
+🌙 Lunar and celestial visualization tools
+🐱 Interactive worlds and game systems
+🎨 Creative coding experiments
+📊 Data visualization projects
+🤖 Technology-driven creative exploration
+
+---
+
+## 🛠️ Tech & Tools
+
+### Languages & Development
+
+* HTML
+* CSS
+* JavaScript
+* Python
+* Markdown
+
+### Creative Tools
+
+* Adobe Illustrator
+* Photoshop
+* Canva
+* CapCut
+
+### Development & Workflow
+
+* GitHub
+* GitHub Pages
+* JSON data systems
+* Interactive web applications
+* Creative coding workflows
+
+---
+
+## 🧪 Featured Projects
+
+### 🌌 SkyCortex Laboratory
+
+A collection of experimental projects combining programming, visualization, and creative exploration.
+
+Featured experiments include:
+
+* Northern Light Research Station
+* Lunar Observatory
+* Maneko Neki Universe
+* Creative Coding Projects
+* Interactive Data Visualizations
+
+---
+
+## 🌐 Connect
+
+GitHub:
+gloriacitizen00-dev
+
+Creative Identity:
+Gloria Martinez
+
+SkyCortex Creative Laboratory
+
+---
+
+© 2026 Gloria Martinez. All rights reserved.
+
+
