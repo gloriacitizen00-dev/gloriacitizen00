@@ -1,24 +1,31 @@
+<div align="center">
+
 <table>
   <tr>
+
     <td align="center">
       <img src="./Myself.png"
            alt="Gloria Martinez"
-           width="250"
-           height="250"
+           width="200"
+           height="200"
            style="border-radius:50%; object-fit:cover;" />
       <br>
       <b>Gloria Martinez</b>
     </td>
 
-<img src="skycortex.GIF"
-     alt="SkyCortex Creative Laboratory"
-     width="350">
+
+    <td align="center">
+      <img src="./skycortex.GIF"
+           alt="SkyCortex Creative Laboratory"
+           width="300" />
       <br>
       <b>SkyCortex Creative Laboratory</b>
     </td>
+
   </tr>
 </table>
 
+</div>
 
 # 🌌 Gloria Martinez — SkyCortex Creative Laboratory
 
