@@ -12,7 +12,7 @@
 
 <img src="skycortex.GIF"
      alt="SkyCortex Creative Laboratory"
-     width="500">
+     width="350">
       <br>
       <b>SkyCortex Creative Laboratory</b>
     </td>
