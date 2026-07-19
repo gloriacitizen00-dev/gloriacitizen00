@@ -109,8 +109,8 @@ Featured experiments include:
 
 ## 🌐 Connect
 
-GitHub:
-gloriacitizen00-dev
+💻 GitHub: [gloriacitizen00-dev](https://github.com/gloriacitizen00-dev)
+💼 LinkedIn: [Gloria Martinez](https://www.linkedin.com/in/gloria-martinez-cr)
 
 Creative Identity:
 Gloria Martinez
